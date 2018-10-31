@@ -1,1 +1,2 @@
 This is second file named as b.
+New content added
